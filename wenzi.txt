@@ -1,0 +1,118 @@
+Login Sign Up
+Payments Made Simple
+Plasso makes accepting and making payments quick & easy. Pay for things. Get paid for things. Buy things. Sell things.
+
+Sign Up Learn More
+Setup Shop
+Sell products and/or subscriptions without writing any code at all.
+
+Digital Wallet
+Securely store your credit cards to use for purchases.
+
+Physical Goods
+Send shipment notifications to your customers with one click.
+
+Digital Delivery
+Sell your digital goods and files. Ebooks, videos, music, etc.
+
+Accept Payments
+Start accepting payments instantly with Plasso. You can setup product pages called 'Spaces' if you'll be selling digital or physical goods/services. Send invoices directly to others. You'll even get your own 'Pay Me' page anyone can visit to send you money at anytime.
+
+Manage Customers
+Anytime someone purchases your products or you receive a payment you'll be able to manage those payments and customers from within Plasso. You can issue refunds, collect additional data at checkout and view all customer and client transaction history.
+
+No Coding
+Plasso makes selling things super easy. You don't need to know or write any code to get setup. The nuts and bolts of recurring payments (subscriptions) and one-time payments are all handled for you. You'll be ready to start making money in just a few clicks!
+
+Pay Me for Free
+When you sign up with Plasso you¡¯ll get your own 'Pay Me' page automatically, no setup or configuration required. If you want someone to pay you, simply send them your Pay Me link and they¡¯ll be able to pay you using their credit card. There is no additional transaction charge for 'Pay Me' payments, they're fee free!
+
+Sign Up See Example
+
+Recurring Payments
+Create subscriptions and charge your members on a recurring basis.
+
+One-Time Payments
+Sell products, accept payments from clients, receive donations, etc.
+
+Pre-Orders
+Capture pre-orders and charge the credit cards at a later time.
+
+Invoices
+Create and send invoices to anyone with a few clicks.
+
+Sell Anything
+Turn your idea into a real business with Plasso. Selling your physical or digital products couldn¡¯t be easier. There¡¯s no need to setup a ¡®store¡¯, every product you create get it¡¯s own dedicated payment page, called a Space, that you can link to from your website, Facebook page, Twitter profile, etc. Or use Plasso Embeds to put the payment form directly in your own existing web pages; you¡¯ll just need to paste a small snippet of code into your HTML. 
+
+Plasso is built to handle all types of payments: One-Time payments, Recurring payments, Pre-Orders, Invoices, Donations and more. 
+
+Plasso uses Stripe, the world¡¯s best and most secure payment platform, to handle all transactions. Don¡¯t have a Stripe account? No problem. You¡¯ll be able to set one up with our 1-step sign up process.
+
+Sign Up Examples: One-Time ? Recurring ? Embed
+ 
+Get setup in minutes.
+Don¡¯t write a line of code.
+Manage customers from one spot.
+Sell multiple products & quantities.
+Offer coupon and discount codes.
+Collect additional data at checkout.
+Sell subscriptions & pre-orders.
+Sign Up View Pricing
+
+Reports
+Keep track of sales and membership sign-ups at a glance.
+
+Automatic Receipts
+Receipts & notifications emailed to your customers automatically.
+
+Virtual Terminal
+Swipe with any USB card reader or charge cards manually.
+
+256-bit SSL Security
+All transactions and payment forms are secure and encrypted.
+
+Everything on Plasso looks beautiful on both desktop and mobile. Plasso was designed for mobile and makes it easy for your customers to send you payments, view your premium content and manage their account from their mobile device. Plasso is completely retina optimized for crisp visuals on any screen. Plasso uses a HTML5 optimized player for all video & audio you upload for your customers to view. These small details will make you and your content look even better.
+
+
+Coupons
+Offer coupons for your products. Configure how & when they expire.
+
+Export Data
+All your sales and membership data can be exported with one click.
+
+Member Management
+You have full control over members that sign up to any of your Spaces.
+
+Analytics
+Add Google or Gosquared analytics to any of your Spaces.
+
+Pricing for Sellers
+All credit card transactions are subject to Stripe¡¯s additional transaction fee. See why.
+
+Basic
+3%
+per transaction + Stripe's fee
+
+No monthly fee
+
+Premium
+1%
+per transaction + Stripe's fee
+
++ $29 per month
+
+Platinum
+0%
+per transaction + Stripe's fee
+
++ $139 per month
+
+Three ways to pay. All plans include the same features. 
+
+'Pay Me' payments are always free on all plans: 0% per credit card transaction.
+
+Market
+Browse and search goods being sold on Plasso
+
+Shop
+Sign Up
